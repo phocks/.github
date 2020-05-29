@@ -1,37 +1,15 @@
-## Welcome to GitHub Pages
+# Mathieu Dutour - @mathieudutour
 
-You can use the [editor on GitHub](https://github.com/phocks/.github/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Hello there, I'm Mathieu - a dev working on creating tools to help people work a tiny bit more efficiently. I previously worked [@Sketch](https://sketch.com) on the developer platform.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+I also like making meme projects:
 
-### Markdown
+- [Scroll through time](https://github.com/mathieudutour/scroll-through-time)
+- [Jest Pixel Perfect](https://github.com/offsetearth/jest-pixel-perfect)
+- [Sketch a Sketch](https://github.com/mathieudutour/sketch-a-sketch)
+- [Sketch Hot Dog](https://github.com/mathieudutour/sketch-hotdog)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/phocks/.github/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+<a href="https://twitter.com/mathieudutour"><img align="left" width="50" height="50" src="./assets/twitter.png"></a>
+<a href="https://dribbble.com/mathieudutour"><img align="left" width="50" height="50" src="./assets/dribbble.png"></a>
+<a href="https://discordapp.com/users/380325824286687233"><img align="left" width="50" height="50" src="./assets/discord.png"></a>
+<a href="https://instagram.com/mathieudutour"><img align="left" width="50" height="50" src="./assets/instagram.png"></a>
